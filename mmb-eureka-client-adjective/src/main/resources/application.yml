@@ -1,0 +1,5 @@
+words: 红色的,绿色的,蓝色的,紫色的
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+#  这个的意思是随机指定个没使用的端口

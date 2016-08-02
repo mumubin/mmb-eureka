@@ -1,0 +1,5 @@
+words: 书,电影,动画,油画
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+#  这个的意思是随机指定个没使用的端口

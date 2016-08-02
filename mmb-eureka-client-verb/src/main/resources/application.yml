@@ -1,0 +1,5 @@
+words: 看着,望着,抚摸着,欣赏,凝视
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+#  这个的意思是随机指定个没使用的端口
